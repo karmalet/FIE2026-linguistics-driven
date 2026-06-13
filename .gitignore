@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+# 실행 산출물
+predictions.json
+submission.json
+*.log
+.DS_Store
+.ipynb_checkpoints/

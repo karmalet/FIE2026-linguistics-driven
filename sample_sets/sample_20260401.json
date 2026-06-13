@@ -1,0 +1,485 @@
+[
+     {
+          "id": "sp_001",
+          "text": "老张并没有注意到她今天穿了一件红色的连衣裙。",
+          "hypothesis": "她今天穿了一件红色的连衣裙。",
+          "factivity": "TRUE",
+          "confidence": 0.95
+     },
+     {
+          "id": "sp_002",
+          "text": "他错误地认为地球是平的。",
+          "hypothesis": "地球是平的。",
+          "factivity": "FALSE",
+          "confidence": 0.99
+     },
+     {
+          "id": "sp_003",
+          "text": "他认为那家新开的餐厅定价过高，普通工薪阶层根本消费不起。",
+          "hypothesis": "新开的餐厅定价过高。",
+          "factivity": "UNCERTAIN",
+          "confidence": 0.5
+     },
+     {
+          "id": "sp_004",
+          "text": "在查阅了公司的财务账本后，审计人员才知道这笔巨额资金在上周三被转入了一个海外账户。",
+          "hypothesis": "这笔巨额资金在上周三被转入了一个海外账户。",
+          "factivity": "TRUE",
+          "confidence": 1.0
+     },
+     {
+          "id": "sp_005",
+          "text": "徐老师明白使用多媒体技术可以活跃课堂气氛。",
+          "hypothesis": "使用多媒体技术可以活跃课堂气氛。",
+          "factivity": "TRUE",
+          "confidence": 0.86
+     },
+     {
+          "id": "sp_006",
+          "text": "直到警察敲开房门并出示了搜查令，躲在屋内的嫌疑人才得知他的同伙已经在两个小时前于火车站被警方成功抓获。",
+          "hypothesis": "嫌疑人的同伙已经在两个小时前于火车站被警方成功抓获。",
+          "factivity": "TRUE",
+          "confidence": 0.98
+     },
+     {
+          "id": "sp_007",
+          "text": "连守门人都不记得他来过，恐怕他的确是没去过。",
+          "hypothesis": "他来过。",
+          "factivity": "FALSE",
+          "confidence": 0.59
+     },
+     {
+          "id": "sp_008",
+          "text": "而他出来时幸好没有忘记带钱，所以口袋里有十多万元跑路费……",
+          "hypothesis": "他出来时带钱了。",
+          "factivity": "TRUE",
+          "confidence": 0.98
+     },
+     {
+          "id": "sp_009",
+          "text": "尽管伪装得十分巧妙，经验丰富的老侦探还是瞬间认出混迹于宾客之中的嫌疑人就是三年前那场银行劫案的主谋。",
+          "hypothesis": "混迹于宾客之中的嫌疑人就是三年前那场银行劫案的主谋。",
+          "factivity": "TRUE",
+          "confidence": 0.93
+     },
+     {
+          "id": "sp_010",
+          "text": "我感觉鸿渐喜欢唐晓芙。",
+          "hypothesis": "鸿渐喜欢唐晓芙。",
+          "factivity": "TRUE",
+          "confidence": 0.55
+     },
+     {
+          "id": "sp_011",
+          "text": "他居然觉得那是对他人格的侮辱！其实人家只是出于好心想帮他一下。",
+          "hypothesis": "那是对他人格的侮辱。",
+          "factivity": "FALSE",
+          "confidence": 0.68
+     },
+     {
+          "id": "sp_012",
+          "text": "读完那封尘封已久的信件，老人才缓缓发觉自己对当年那段无疾而终的恋情仍旧怀有难以释怀的遗憾。",
+          "hypothesis": "老人对当年那段无疾而终的恋情仍旧怀有难以释怀的遗憾。",
+          "factivity": "TRUE",
+          "confidence": 0.93
+     },
+     {
+          "id": "sp_013",
+          "text": "坐在前排认真听讲的学生们没有察觉到教室后门的玻璃窗外有一只流浪猫正静静地注视着他们的一举一动。",
+          "hypothesis": "教室后门的玻璃窗外有一只流浪猫正静静地注视着学生们的一举一动。",
+          "factivity": "TRUE",
+          "confidence": 0.98
+     },
+     {
+          "id": "sp_014",
+          "text": "老李迟钝地发现问题出在自己身上。",
+          "hypothesis": "问题出在老李身上。",
+          "factivity": "TRUE",
+          "confidence": 0.93
+     },
+     {
+          "id": "sp_015",
+          "text": "约翰没意识到自己根本没钱。",
+          "hypothesis": "约翰根本没钱。",
+          "factivity": "TRUE",
+          "confidence": 0.93
+     },
+     {
+          "id": "sp_016",
+          "text": "鸿渐经常能够看见赵辛楣往苏文纨家里跑。",
+          "hypothesis": "赵辛楣经常往苏文纨家里跑。",
+          "factivity": "TRUE",
+          "confidence": 0.94
+     },
+     {
+          "id": "sp_017",
+          "text": "露丝亲眼看到杰克缓缓沉入冰冷的海底。",
+          "hypothesis": "杰克缓缓沉入了冰冷的海底。",
+          "factivity": "TRUE",
+          "confidence": 1.0
+     },
+     {
+          "id": "sp_018",
+          "text": "鸿渐经常能够听见柔嘉躲在房间里哭泣。",
+          "hypothesis": "柔嘉经常躲在房间里哭泣。",
+          "factivity": "TRUE",
+          "confidence": 0.88
+     },
+     {
+          "id": "sp_019",
+          "text": "我听到他在轻声叹气。",
+          "hypothesis": "他在轻声叹气。",
+          "factivity": "TRUE",
+          "confidence": 0.9
+     },
+     {
+          "id": "sp_020",
+          "text": "昨天下午，我在市中心繁忙的十字路口碰见一位陌生的老人正在费力地搬运堆积如山的纸箱。",
+          "hypothesis": "昨天下午，一位陌生的老人曾在市中心繁忙的十字路口费力地搬运堆积如山的纸箱。",
+          "factivity": "TRUE",
+          "confidence": 0.98
+     },
+     {
+          "id": "sp_021",
+          "text": "哥伦布错误地认为自己的船队已经到达了印度。",
+          "hypothesis": "哥伦布的船队已经到达了印度。",
+          "factivity": "FALSE",
+          "confidence": 0.96
+     },
+     {
+          "id": "sp_022",
+          "text": "你以为他是你朋友，所以你才这么相信他吧!",
+          "hypothesis": "他是你朋友。",
+          "factivity": "FALSE",
+          "confidence": 0.69
+     },
+     {
+          "id": "sp_023",
+          "text": "冯太太慈眉善目，可以料想他们夫妇二人都是好人。",
+          "hypothesis": "他们夫妇二人都是好人。",
+          "factivity": "TRUE",
+          "confidence": 0.53
+     },
+     {
+          "id": "sp_024",
+          "text": "警方根据现场留下的指纹和脚印，推测凶手是一个身材高大且行动敏捷的惯犯。",
+          "hypothesis": "凶手是一个身材高大且行动敏捷的惯犯。",
+          "factivity": "TRUE",
+          "confidence": 0.63
+     },
+     {
+          "id": "sp_025",
+          "text": "现场观众在看完这部纪录片后，纷纷猜测主人公最终选择了放弃财富回归田园。",
+          "hypothesis": "主人公最终选择了放弃财富回归田园。",
+          "factivity": "UNCERTAIN",
+          "confidence": 0.5
+     },
+     {
+          "id": "sp_026",
+          "text": "实验室的研究员们从没怀疑过培养皿中突然变色的细菌样本已经受到了外界空气的污染。",
+          "hypothesis": "培养皿中突然变色的细菌样本已经受到了外界空气的污染。",
+          "factivity": "TRUE",
+          "confidence": 0.69
+     },
+     {
+          "id": "sp_027",
+          "text": "我估计鸿渐喜欢唐晓芙。",
+          "hypothesis": "鸿渐喜欢唐晓芙。",
+          "factivity": "TRUE",
+          "confidence": 0.58
+     },
+     {
+          "id": "sp_028",
+          "text": "我不该相信他是好人。",
+          "hypothesis": "他是好人。",
+          "factivity": "FALSE",
+          "confidence": 0.74
+     },
+     {
+          "id": "sp_029",
+          "text": "我很高兴儿子结识了这样一位风度翩翩的朋友。",
+          "hypothesis": "儿子结识了一位风度翩翩的朋友。",
+          "factivity": "TRUE",
+          "confidence": 0.86
+     },
+     {
+          "id": "sp_030",
+          "text": "消费者不满意厂家把这款高端产品的包装弄得如此简陋粗糙，与其高昂的价格极不相称。",
+          "hypothesis": "厂家把这款高端产品的包装弄得非常简陋粗糙。",
+          "factivity": "TRUE",
+          "confidence": 0.86
+     },
+     {
+          "id": "sp_031",
+          "text": "那只流浪狗蜷缩在墙角，似乎也在伤心自己再也找不到一个可以安心依靠的温暖怀抱了。",
+          "hypothesis": "那只流浪狗再也找不到一个可以安心依靠的温暖怀抱了。",
+          "factivity": "TRUE",
+          "confidence": 0.58
+     },
+     {
+          "id": "sp_032",
+          "text": "她并不是真的在乎那件衣服的价格，而是非常介意店员递给她时脸上流露出的那种轻蔑表情。",
+          "hypothesis": "店员递给她衣服时脸上流露出一种轻蔑的表情。",
+          "factivity": "TRUE",
+          "confidence": 0.89
+     },
+     {
+          "id": "sp_033",
+          "text": "老师站在讲台上，生气学生对待作业的态度极其敷衍，连最基本的格式都没有遵守。",
+          "hypothesis": "学生对待作业的态度极其敷衍，连最基本的格式都没有遵守。",
+          "factivity": "TRUE",
+          "confidence": 0.9
+     },
+     {
+          "id": "sp_034",
+          "text": "我一点不奇怪他没有对此进行申诉。",
+          "hypothesis": "他没有对此进行申诉。",
+          "factivity": "TRUE",
+          "confidence": 0.95
+     },
+     {
+          "id": "sp_035",
+          "text": "看到那场突如其来的洪水瞬间吞没了整个村庄且未留下任何生机，救援队员们无不震惊于大自然在愤怒时所展现出的毁灭性力量。",
+          "hypothesis": "大自然在愤怒时展现出了毁灭性力量。",
+          "factivity": "TRUE",
+          "confidence": 0.95
+     },
+     {
+          "id": "sp_036",
+          "text": "公司高层在回顾去年的决策时，庆幸当时没有选择盲目扩张，而是选择了稳健经营。",
+          "hypothesis": "公司高层去年没有选择盲目扩张，而是选择了稳健经营。",
+          "factivity": "TRUE",
+          "confidence": 1.0
+     },
+     {
+          "id": "sp_037",
+          "text": "很多当地人后悔当初没去占个摊位租上间房子。",
+          "hypothesis": "很多当地人当初没有去占个摊位租上间房子。",
+          "factivity": "TRUE",
+          "confidence": 0.97
+     },
+     {
+          "id": "sp_038",
+          "text": "父亲隐约地担心我会遇到坏人。",
+          "hypothesis": "我会遇到坏人。",
+          "factivity": "UNCERTAIN",
+          "confidence": 0.5
+     },
+     {
+          "id": "sp_039",
+          "text": "凝视着画中那抹夕阳下金色的麦田，艺术评论家感叹画家对色彩运用的敏感度实在是非常敏锐且极具天赋。",
+          "hypothesis": "画家对色彩运用的敏感度非常敏锐且极具天赋。",
+          "factivity": "TRUE",
+          "confidence": 0.91
+     },
+     {
+          "id": "sp_040",
+          "text": "约翰指责汤姆剽窃。",
+          "hypothesis": "汤姆剽窃了。",
+          "factivity": "TRUE",
+          "confidence": 0.51
+     },
+     {
+          "id": "sp_041",
+          "text": "虽然这次项目出现了严重的延误，但经理没有批评团队工作不够努力，反而肯定了大家在突发状况下的应变能力。",
+          "hypothesis": "团队工作不够努力。",
+          "factivity": "FALSE",
+          "confidence": 0.52
+     },
+     {
+          "id": "sp_042",
+          "text": "竞争对手嘲讽我们团队提出的方案异想天开，完全是浪费公司资源的愚蠢行为。",
+          "hypothesis": "我们团队提出的方案异想天开。",
+          "factivity": "FALSE",
+          "confidence": 0.51
+     },
+     {
+          "id": "sp_043",
+          "text": "同学们在后排窃窃私语，笑话班长今天的发型太奇怪，像个被雷劈过的鸟窝一样凌乱不堪。",
+          "hypothesis": "班长今天的发型很奇怪。",
+          "factivity": "TRUE",
+          "confidence": 0.75
+     },
+     {
+          "id": "sp_044",
+          "text": "尽管团队成员都兴高采烈地庆祝胜利，但队长却不认可这个依靠运气得来的比赛结果。",
+          "hypothesis": "团队胜利了。",
+          "factivity": "TRUE",
+          "confidence": 0.99
+     },
+     {
+          "id": "sp_045",
+          "text": "尽管该项目在初期取得了显著的经济效益，但环保组织坚决不能认同这种以破坏生态平衡为代价的发展模式是正确的。",
+          "hypothesis": "这种以破坏生态平衡为代价的发展模式是正确的。",
+          "factivity": "FALSE",
+          "confidence": 0.87
+     },
+     {
+          "id": "sp_046",
+          "text": "学术界同仁鄙视那位教授剽窃他人成果的行为，视其为对科学精神的极大亵渎。",
+          "hypothesis": "那位教授剽窃了他人成果。",
+          "factivity": "TRUE",
+          "confidence": 0.87
+     },
+     {
+          "id": "sp_047",
+          "text": "他十分厌恶邻居那种锱铢必较的性格，但在多年的相处中，他却从未当面说过邻居小气。",
+          "hypothesis": "邻居的性格是锱铢必较的。",
+          "factivity": "TRUE",
+          "confidence": 0.87
+     },
+     {
+          "id": "sp_048",
+          "text": "尽管公司高层在会议上宣称这次组织架构调整让部门协作变得更加顺畅，一线员工在实际操作过程中却没有觉得新的汇报机制比原来的模式更加合理科学。",
+          "hypothesis": "这次组织架构调整让部门协作变得更加顺畅。",
+          "factivity": "FALSE",
+          "confidence": 0.66
+     },
+     {
+          "id": "sp_049",
+          "text": "公司高层多次公开声明此次重组是为了员工福祉。",
+          "hypothesis": "公司此次重组是为了员工福祉。",
+          "factivity": "TRUE",
+          "confidence": 0.54
+     },
+     {
+          "id": "sp_050",
+          "text": "听到评委宣布自己的作品获得金奖而其他人的作品落选，她暗自窃喜。",
+          "hypothesis": "她的作品获得了金奖。",
+          "factivity": "TRUE",
+          "confidence": 0.98
+     },
+     {
+          "id": "sp_051",
+          "text": "老师站在讲台上严肃地看着全班同学，明确表示她最恨这种抄袭作业的风气，认为这是对知识最大的不尊重。",
+          "hypothesis": "老师最恨这种抄袭作业的风气，认为这是对知识最大的不尊重。",
+          "factivity": "TRUE",
+          "confidence": 0.96
+     },
+     {
+          "id": "sp_052",
+          "text": "他吹嘘自己精通麻衣相术。",
+          "hypothesis": "他精通麻衣相术。",
+          "factivity": "FALSE",
+          "confidence": 0.75
+     },
+     {
+          "id": "sp_053",
+          "text": "审计结果清晰披露公司的资金分配方案极不合理，导致核心研发部门长期处于匮乏状态。",
+          "hypothesis": "公司的资金分配方案极不合理，导致核心研发部门长期处于匮乏状态。",
+          "factivity": "TRUE",
+          "confidence": 0.96
+     },
+     {
+          "id": "sp_054",
+          "text": "警方通过调取监控录像和比对指纹，迅速查明那个在深夜潜入仓库的小偷就是内部员工。",
+          "hypothesis": "那个在深夜潜入仓库的小偷就是内部员工。",
+          "factivity": "TRUE",
+          "confidence": 0.98
+     },
+     {
+          "id": "sp_055",
+          "text": "当裁判最终吹哨判定进球有效时，主场球迷欢呼他们的球队在补时阶段完成了不可思议的逆转。",
+          "hypothesis": "他们的球队在补时阶段完成了不可思议的逆转。",
+          "factivity": "TRUE",
+          "confidence": 0.99
+     },
+     {
+          "id": "sp_056",
+          "text": "审计部门在年度检查中发现异常，随即控告该部门负责人虚报项目开支并侵吞了原本用于扶贫的专项拨款。",
+          "hypothesis": "该部门负责人虚报项目开支并侵吞了原本用于扶贫的专项拨款。",
+          "factivity": "TRUE",
+          "confidence": 0.75
+     },
+     {
+          "id": "sp_057",
+          "text": "段祺瑞政府为开脱罪责，嫁祸于人，诬陷李大钊等人率众冲击国务院。",
+          "hypothesis": "李大钊等人率众冲击了国务院。",
+          "factivity": "FALSE",
+          "confidence": 0.93
+     },
+     {
+          "id": "sp_058",
+          "text": "营养学家指出，长期坚持素食不利于身体健康。",
+          "hypothesis": "长期坚持素食不利于身体健康。",
+          "factivity": "TRUE",
+          "confidence": 0.89
+     },
+     {
+          "id": "sp_059",
+          "text": "小王坦白是他拿走了票据。",
+          "hypothesis": "是小王拿走了票据。",
+          "factivity": "TRUE",
+          "confidence": 0.94
+     },
+     {
+          "id": "sp_060",
+          "text": "他最后说，三峡工程即将平稳进入商业运行轨道的事实已经证明，建设三峡工程的决策是理性的、科学的。",
+          "hypothesis": "建设三峡工程的决策是理性的、科学的。",
+          "factivity": "TRUE",
+          "confidence": 0.89
+     },
+     {
+          "id": "sp_061",
+          "text": "生态学家通过长期监测森林中某种珍稀鸟类的繁殖数量与栖息地面积变化，最终估算出该物种在野外的现存总数不足两百只。",
+          "hypothesis": "该物种在野外的现存总数不足两百只。",
+          "factivity": "TRUE",
+          "confidence": 0.69
+     },
+     {
+          "id": "sp_062",
+          "text": "市政规划局并没有计划在城市中心地带修建一条高架快速路。",
+          "hypothesis": "市政规划局在城市中心地带修建了一条高架快速路。",
+          "factivity": "FALSE",
+          "confidence": 0.99
+     },
+     {
+          "id": "sp_063",
+          "text": "那位著名的历史学家在撰写关于冷战时期的专著时，没有试图美化任何一方的政治决策，而是客观地罗列了当时各国解密档案中记录的真实数据与外交函件。",
+          "hypothesis": "那位著名的历史学家在撰写关于冷战时期的专著时，美化了其中一方的政治决策。",
+          "factivity": "FALSE",
+          "confidence": 0.93
+     },
+     {
+          "id": "sp_064",
+          "text": "虽然我不知道你现在是什么样子，不过我多么希望你还是我记忆中的那个孙悦啊！",
+          "hypothesis": "你还是我记忆中的那个孙悦。",
+          "factivity": "UNCERTAIN",
+          "confidence": 0.5
+     },
+     {
+          "id": "sp_065",
+          "text": "由于对手在上一场比赛中展现了压倒性的实力和完美的战术配合，教练组不敢期待年轻队员能在决赛现场发挥出超常水平并赢得胜利。",
+          "hypothesis": "年轻队员能在决赛现场发挥出超常水平并赢得胜利。",
+          "factivity": "FALSE",
+          "confidence": 0.53
+     },
+     {
+          "id": "sp_066",
+          "text": "秦始皇到死还在幻想方士们给他送来长生不老药的情景。",
+          "hypothesis": "方士们给秦始皇送来了长生不老药。",
+          "factivity": "FALSE",
+          "confidence": 0.97
+     },
+     {
+          "id": "sp_067",
+          "text": "他梦想那光明可以立刻来临。",
+          "hypothesis": "那光明可以立刻来临。",
+          "factivity": "FALSE",
+          "confidence": 0.68
+     },
+     {
+          "id": "sp_068",
+          "text": "奥德修斯假装自己是乞丐，进入了王宫。",
+          "hypothesis": "奥德修斯是乞丐。",
+          "factivity": "FALSE",
+          "confidence": 0.93
+     },
+     {
+          "id": "sp_069",
+          "text": "他在学术期刊上发表的关于古代气候变迁的研究论文，因数据来源标注不清且部分图表与早年文献高度重合，被举报涉嫌学术不端而引发了学界广泛讨论。",
+          "hypothesis": "他学术不端。",
+          "factivity": "TRUE",
+          "confidence": 0.72
+     }
+]

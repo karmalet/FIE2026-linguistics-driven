@@ -1,0 +1,5 @@
+# 오프라인 실험(run_experiment.py)은 표준 라이브러리만으로 동작 — 설치 불필요.
+# 아래는 LLM 백엔드(run_local.py / backends.py) 실행 시에만 필요.
+openai>=1.40.0
+# (선택) Gemini 클라우드 백엔드 사용 시
+# google-generativeai>=0.7.0
